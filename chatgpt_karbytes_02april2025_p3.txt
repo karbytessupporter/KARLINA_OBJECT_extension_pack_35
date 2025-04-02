@@ -1,4 +1,16 @@
-// chatgpt_karbytes_02april2025_p3.txt
+/**
+ * file: chatgpt_karbytes_02april2025_p3.txt
+ * type: plain-text
+ * date: 02_APRIL_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+The following is a plain-text transcript of a conversation between karbytes and ChatGPT-4o which took place between 2:00PM Pacific Standard Time on 01_APRIL_2025 and 8:00AM Pacific Standard Time on 02_APRIL_2025. The conversation pertains to karbytes inquiring ChatGPT about using GitHub Pages to display playable embedded video files and to host interactive software applications. karbytes used the knowledge gleaned in that conversation to construct a GitHub-hosted website with the aforementioned features. That website's home page web address in addition to contextual information about that website is consolidated into the following journal entry web page on karbytes' blogging website: https://karbytesforlifeblog.wordpress.com/journal_karbytes_02april2025/
+
+* * *
+
+karbytes:
 
 I noticed that the Tor browser allows me to play videos directly inside of the browser. Is the same true also of github.io websites?
 ChatGPT said:
