@@ -6,13 +6,10 @@
  * license: PUBLIC_DOMAIN
  */
 
-DARK_WEB_NOTE...
+DARK_WEB_NOTE…
 
-02_APRIL_2025: The official karbytes' dark website cluster has been updated to showcase dark web mirrors of two GitHub repositories. KARLINA_OBJECT_extension_pack_34 contains a lot of multimedia files (and video files can be played directly inside of the mobile and Desktop TOR browser). Meanwhile, KARLINA_OBJECT_extension_pack_35 is more compact and data minimalist. http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
+02_APRIL_2025: The official karbytes’ dark website cluster has been updated to showcase dark web mirrors of two GitHub repositories. KARLINA_OBJECT_extension_pack_34 contains a lot of multimedia files (and video files can be played directly inside of the mobile and Desktop TOR browser). Meanwhile, KARLINA_OBJECT_extension_pack_35 is more compact and data minimalist. http://qkbrwfubnh4knc6kkhx6uepccavpwezdf2al7w2quepe3qociegsi3yd.onion/
 
-LIGHT_WEB_NOTE...
+LIGHT_WEB_NOTE…
 
-02_APRIL_2025: karbytes created a website using only GitHub to host every component of that website (without having to use some external hosting platform such as WordPress dot Com). That GitHub-hosted website features a playable embedded video and interactive RANDOM_GRAPH_GENERATOR web page application.
-https://karlinarayberinger.github.io/karbytes_test_github_hosted_website/
-
-
+02_APRIL_2025: karbytes created a website using only GitHub to host every component of that website (without having to use some external hosting platform such as WordPress dot Com). That GitHub-hosted website features a playable embedded video and interactive RANDOM_GRAPH_GENERATOR web page application. https://karlinarayberinger.github.io/karbytes_test_github_hosted_website/
