@@ -1,0 +1,265 @@
+File Type                      | File Name                                               | Raw GitHub URL                                                                                      
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C++ Source Files (.cpp)        | factorial.cpp                                           | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/factorial.cpp
+
+C++ Source Files (.cpp)        | fibonacci_numbers.cpp                                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/fibonacci_numbers.cpp
+
+C++ Source Files (.cpp)        | golden_ratio_approximation.cpp                          | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/golden_ratio_approximation.cpp
+
+C++ Source Files (.cpp)        | square_root_approximation.cpp                           | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/square_root_approximation.cpp
+
+C++ Source Files (.cpp)        | cube_root_approximation.cpp                             | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/cube_root_approximation.cpp
+
+C++ Source Files (.cpp)        | eulers_number_approximation.cpp                         | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_20/main/eulers_number_approximation.cpp
+
+C++ Source Files (.cpp)        | power.cpp                                               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/power.cpp
+
+C++ Source Files (.cpp)        | arrays.cpp                                              | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/arrays.cpp
+
+C++ Source Files (.cpp)        | point.cpp                                               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/point.cpp
+
+C++ Source Files (.cpp)        | point_class_tester.cpp                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/point_class_tester.cpp
+
+C++ Source Files (.cpp)        | triangle.cpp                                            | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/triangle.cpp
+
+C++ Source Files (.cpp)        | triangle_class_tester.cpp                               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/triangle_class_tester.cpp
+
+C++ Source Files (.cpp)        | polygon.cpp                                             | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/polygon.cpp
+
+C++ Source Files (.cpp)        | polygon_class_inheritance_tester.cpp                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/polygon_class_inheritance_tester.cpp
+
+C++ Source Files (.cpp)        | quadrilateral.cpp                                       | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/quadrilateral.cpp
+
+C++ Source Files (.cpp)        | rectangle.cpp                                           | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/rectangle.cpp
+
+C++ Source Files (.cpp)        | square.cpp                                              | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/square.cpp
+
+C++ Source Files (.cpp)        | trapezoid.cpp                                           | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/trapezoid.cpp
+
+C++ Source Files (.cpp)        | trilateral.cpp                                          | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/trilateral.cpp
+
+C++ Source Files (.cpp)        | right_trilateral.cpp                                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/right_trilateral.cpp
+
+C++ Source Files (.cpp)        | linked_list.cpp                                         | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/linked_list.cpp
+
+C++ Source Files (.cpp)        | linked_list_driver.cpp                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/linked_list_driver.cpp
+
+C++ Source Files (.cpp)        | hash_table.cpp                                          | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hash_table.cpp
+
+C++ Source Files (.cpp)        | hash_table_driver.cpp                                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hash_table_driver.cpp
+
+C++ Source Files (.cpp)        | public_linked_list.cpp                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/public_linked_list.cpp
+
+C++ Header Files (.h)          | point.h                                                 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/point.h
+
+C++ Header Files (.h)          | triangle.h                                              | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/triangle.h
+
+C++ Header Files (.h)          | polygon.h                                               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/polygon.h
+
+C++ Header Files (.h)          | quadrilateral.h                                         | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/quadrilateral.h
+
+C++ Header Files (.h)          | rectangle.h                                             | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/rectangle.h
+
+C++ Header Files (.h)          | square.h                                                | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/square.h
+
+C++ Header Files (.h)          | trapezoid.h                                             | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/trapezoid.h
+
+C++ Header Files (.h)          | trilateral.h                                            | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/trilateral.h
+
+C++ Header Files (.h)          | right_trilateral.h                                      | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/right_trilateral.h
+
+C++ Header Files (.h)          | linked_list.h                                           | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/linked_list.h
+
+C++ Header Files (.h)          | hash_table.h                                            | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hash_table.h
+
+C++ Header Files (.h)          | public_linked_list.h                                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/public_linked_list.h
+
+JavaScript Files (.js)         | hexidecimal_color_codes.js                              | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hexidecimal_color_codes.js
+
+JavaScript Files (.js)         | time_stamp.js                                           | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/time_stamp.js
+
+JavaScript Files (.js)         | binary_to_decimal.js                                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/binary_to_decimal.js
+
+JavaScript Files (.js)         | count_down_timer.js                                     | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/count_down_timer.js
+
+JavaScript Files (.js)         | pi_approximation.js                                     | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/pi_approximation.js        
+
+JavaScript Files (.js)         | base_converter_interface.js                             | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter_interface.js
+
+JavaScript Files (.js)         | base_converter_arithmetic.js                            | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter_arithmetic.js
+
+JavaScript Files (.js)         | sound_track_looper.js                                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/sound_track_looper.js      
+
+JavaScript Files (.js)         | triangle_graphing.js                                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/triangle_graphing.js
+
+JavaScript Files (.js)         | probability.js                                          | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/probability.js
+
+JavaScript Files (.js)         | word_counter.js                                         | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/word_counter.js
+
+HTML Files (.html)             | hexidecimal_color_codes.html                            | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hexidecimal_color_codes.html
+
+HTML Files (.html)             | binary_to_decimal.html                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/binary_to_decimal.html
+
+HTML Files (.html)             | count_down_timer.html                                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/count_down_timer.html
+
+HTML Files (.html)             | pi_approximation.html                                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/pi_approximation.html
+
+HTML Files (.html)             | base_converter.html                                     | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter.html
+
+HTML Files (.html)             | sound_track_looper.html                                 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/sound_track_looper.html
+
+HTML Files (.html)             | probability.html                                        | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/probability.html
+
+HTML Files (.html)             | word_counter.html                                       | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/word_counter.html
+
+HTML Files (.html)             | triangle_graphing.html                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/triangle_graphing.html
+
+CSS Files (.css)               | karbytes_aesthetic.css                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_aesthetic.css
+
+CSS Files (.css)               | bordered_container.css                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/bordered_container.css
+
+Image Files                    | romanesco_broccoli_19_march_2021.jpeg                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/romanesco_broccoli_19_march_2021.jpeg
+
+Image Files                    | karlina_object_wordpress_logo_orange_box_drawing_2020.png | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karlina_object_wordpress_logo_orange_box_drawing_2020.png
+
+Image Files                    | dimensions_02_october_2019.jpg                          | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/dimensions_02_october_2019.jpg
+
+Image Files                    | nested_yellow_boxes_03_july_2022.jpg                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/nested_yellow_boxes_03_july_2022.jpg
+
+Image Files                    | number_sets_diagram.png                                 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/number_sets_diagram.png
+
+Image Files                    | cube_comprised_of_eight_equally_sized_cubes_03_may_2023.jpeg | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/cube_comprised_of_eight_equally_sized_cubes_03_may_2023.jpeg
+
+Image Files                    | points_on_cartesian_grid.png                            | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/points_on_cartesian_grid.png
+
+Image Files                    | triangle_image.png                                      | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/triangle_image.png
+
+Image Files                    | polygon_inheritance_diagram.png                         | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/polygon_inheritance_diagram.png
+
+Image Files                    | quadrilateral_image.png                                 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/quadrilateral_image.png
+
+Image Files                    | linked_list_image.png                                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/linked_list_image.png
+
+Image Files                    | hash_table_image.png                                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hash_table_image.png
+
+Image Files                    | continuum_and_slices_07_september_2022.jpg              | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/continuum_and_slices_07_september_2022.jpg
+
+Image Files                    | hexidecimal_color_codes_html_code_screenshot.png        | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hexidecimal_color_codes_html_code_screenshot.png
+
+Image Files                    | hexidecimal_color_codes_interface_initial.png           | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hexidecimal_color_codes_interface_initial.png
+
+Image Files                    | hexidecimal_color_codes_interface_skew_none.png         | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hexidecimal_color_codes_interface_skew_none.png
+
+Image Files                    | hexidecimal_color_codes_interface_skew_red.png          | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hexidecimal_color_codes_interface_skew_red.png
+
+Image Files                    | hexidecimal_color_codes_interface_skew_green.png        | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hexidecimal_color_codes_interface_skew_green.png
+
+Image Files                    | hexidecimal_color_codes_interface_skew_blue.png         | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/hexidecimal_color_codes_interface_skew_blue.png
+
+Image Files                    | binary_to_decimal_html_code_screenshot.png              | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/binary_to_decimal_html_code_screenshot.png
+
+Image Files                    | binary_to_decimal_interface_initial.png                 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/binary_to_decimal_interface_initial.png
+
+Image Files                    | binary_to_decimal_interface_progress.png                | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/binary_to_decimal_interface_progress.png
+
+Image Files                    | binary_to_decimal_interface_final.png                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/binary_to_decimal_interface_final.png
+
+Image Files                    | count_down_timer_html_code_screenshot.png               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/count_down_timer_html_code_screenshot.png
+
+Image Files                    | count_down_timer_interface_initial.png                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/count_down_timer_interface_initial.png
+
+Image Files                    | count_down_timer_interface_progress.png                 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/count_down_timer_interface_progress.png
+
+Image Files                    | count_down_timer_interface_final.png                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/count_down_timer_interface_final.png
+
+Image Files                    | pi_approximation_html_code_screenshot.png               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/pi_approximation_html_code_screenshot.png
+
+Image Files                    | pi_approximation_interface_initial.png                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/pi_approximation_interface_initial.png
+
+Image Files                    | pi_approximation_interface_progress_0.png               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/pi_approximation_interface_progress_0.png
+
+Image Files                    | pi_approximation_interface_progress_1.png               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/pi_approximation_interface_progress_1.png
+
+Image Files                    | pi_approximation_interface_progress_2.png               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/pi_approximation_interface_progress_2.png
+
+Image Files                    | pi_approximation_interface_final.png                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/pi_approximation_interface_final.png
+
+Image Files                    | base_converter_html_code_screenshot.png                 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter_html_code_screenshot.png
+
+Image Files                    | base_converter_interface_initial.png                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter_interface_initial.png
+
+Image Files                    | base_converter_interface_step_1.png                     | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter_interface_step_1.png
+
+Image Files                    | base_converter_interface_step_2.png                     | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter_interface_step_2.png
+
+Image Files                    | base_converter_interface_step_3.png                     | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter_interface_step_3.png
+
+Image Files                    | base_converter_interface_final.png                      | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/base_converter_interface_final.png
+
+Image Files                    | perception_decision_execution_flowchart.png             | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/perception_decision_execution_flowchart.png
+
+Image Files                    | sound_track_looper_html_code_screenshot.png             | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/sound_track_looper_html_code_screenshot.png
+
+Image Files                    | sound_track_looper_interface_initial.png                | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/sound_track_looper_interface_initial.png
+
+Image Files                    | sound_track_looper_interface_progress.png               | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/sound_track_looper_interface_progress.png
+
+Image Files                    | probability_html_code_screenshot.png                    | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/probability_html_code_screenshot.png
+
+Image Files                    | probability_interface_initial_screenshot.png            | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/probability_interface_initial_screenshot.png
+
+Image Files                    | probability_interface_probability_without_replacement_example_screenshot.png | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/probability_interface_probability_without_replacement_example_screenshot.png
+
+Image Files                    | probability_interface_probability_with_replacement_example_screenshot.png | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/probability_interface_probability_with_replacement_example_screenshot.png
+
+Image Files                    | determinism_flowchart_diagram.png                       | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/determinism_flowchart_diagram.png
+
+Image Files                    | word_counter_html_code_screenshot.png                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/word_counter_html_code_screenshot.png
+
+Image Files                    | word_counter_interface_initial.png                      | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/word_counter_interface_initial.png
+
+Image Files                    | word_counter_interface_progress.png                     | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/word_counter_interface_progress.png
+
+Image Files                    | word_counter_interface_final.png                        | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/word_counter_interface_final.png
+
+Image Files                    | triangle_graphing_html_code_screenshot.png              | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/triangle_graphing_html_code_screenshot.png
+
+Image Files                    | triangle_graphing_web_page_interface_after_selecting_input_values.png | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/triangle_graphing_web_page_interface_after_selecting_input_values.png
+
+Image Files                    | triangle_graphing_web_page_interface_after_clicking_generate_button.png | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/triangle_graphing_web_page_interface_after_clicking_generate_button.png
+
+Image Files                    | triangle_graphing_web_page_interface_after_clicking_reset_button.png | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_0/main/triangle_graphing_web_page_interface_after_clicking_reset_button.png
+
+Image Files                    | northeast_castro_valley_california_sunrise_02_july_2023.jpg | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/northeast_castro_valley_california_sunrise_02_july_2023.jpg
+
+Image Files                    | light_bulb_off.png                                      | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/light_bulb_off.png
+
+Image Files                    | light_bulb_on.png                                       | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/light_bulb_on.png
+
+Audio Files                    | frogs_croaking_in_castro_valley_california_21_april_2022.mp3 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/frogs_croaking_in_castro_valley_california_21_april_2022.mp3
+
+Audio Files                    | coyote_vocalizations_01_july_2023.mp3                   | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/coyote_vocalizations_01_july_2023.mp3
+
+Audio Files                    | karbytes_drums_castro_valley_california_12_december_2022.mp3 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_drums_castro_valley_california_12_december_2022.mp3
+
+Audio Files                    | drums_karbytes_10_september_2023_part_0.mp3             | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_1/main/drums_karbytes_10_september_2023_part_0.mp3
+
+Audio Files                    | karbytes_guitar_castro_valley_california_12_december_2022.mp3 | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_guitar_castro_valley_california_12_december_2022.mp3
+
+Audio Files                    | karbytes_guitar_13_may_2023.mp3                         | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_guitar_13_may_2023.mp3
+
+Audio Files                    | karbytes_guitar_07_june_2023.mp3                        | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/karbytes_guitar_07_june_2023.mp3
+
+Audio Files                    | karbytes_guitar_16_october_2023.mp3                     | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/karbytes_guitar_16_october_2023.mp3
+
+Audio Files                    | karbytes_drums_20_october_2023.mp3                      | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_2/main/karbytes_drums_20_october_2023.mp3
+
+Audio Files                    | guitar_karbytes_13july2024.mp3                          | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/guitar_karbytes_13july2024.mp3
+
+Audio Files                    | guitar_karbytes_20august2024.mp3                        | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/guitar_karbytes_20august2024.mp3
+
+Audio Files                    | alert_sound_effect.wav                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_summer_2023_starter_pack/main/alert_sound_effect.wav
+
+Video Files                    | alert_sound_effect.mp4                                  | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/alert_sound_effect.mp4     
+
+Video Files                    | karbytes_sound_track_looper_use_case_29nov2024.mp4      | https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT/main/karbytes_sound_track_looper_use_case_29nov2024.mp4
